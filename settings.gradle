@@ -1,0 +1,11 @@
+rootProject.name = "lesson"
+include ':app'
+include ':firstproject'
+include ':secondlesson'
+include ':thirdlesson'
+include ':lesonelementsrid'
+include ':buttononclicklesson'
+include ':calculator'
+include ':mycalc'
+include ':randomnumber'
+include ':fingertraining'
